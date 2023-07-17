@@ -1,12 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - prints alhabet
- * return: Always
+ * main - prints alphabet
+ * Return: Always 0
  *
  */
 
 int main(void)
+
 
 {
 	char c;
