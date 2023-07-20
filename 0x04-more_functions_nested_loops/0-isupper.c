@@ -5,7 +5,6 @@
  * @x: The number to be checked
  * Return: 1 for upper letter or 0 for any else
  */
-
 int _isupper(int x)
 
 {
@@ -14,5 +13,4 @@ int _isupper(int x)
 	return (1);
 	}
 	return (0);
-
 }
